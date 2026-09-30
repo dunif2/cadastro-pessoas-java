@@ -1,0 +1,12 @@
+# Banco de dados local (e criado sozinho quando o programa roda).
+# Nao vai para o repositorio porque guarda dados pessoais dos cadastros.
+cadastro.db
+
+# Arquivos compilados
+bin/
+*.class
+
+# Arquivos gerados pelo NetBeans
+nbproject/private/
+build/
+dist/

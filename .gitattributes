@@ -1,0 +1,4 @@
+# Scripts precisam do fim de linha certo para cada sistema
+*.sh  text eol=lf
+*.bat text eol=crlf
+*.jar binary
